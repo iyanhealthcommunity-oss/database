@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IHC Management</string>
+    <string name="brand_full">Iyan Health Community</string>
+    <string name="brand_short">IHC</string>
+    <string name="login_subtitle">Sistem Manajemen Coaching Kebugaran</string>
+    <string name="login_coach_only">Khusus Coach Iyan • Zona Waktu WIB (Asia/Jakarta)</string>
+    <string name="login_button">Masuk sebagai Coach</string>
+    <string name="nav_dashboard">Beranda</string>
+    <string name="nav_clients">Klien</string>
+    <string name="nav_calendar">Kalender</string>
+    <string name="nav_requests">Permintaan</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="loading_default">Memuat data IHC…</string>
+    <string name="exit_message">Menutup sesi Coach Iyan…</string>
+</resources>
